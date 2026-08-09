@@ -29,7 +29,7 @@ Dataset:
 E20 Petrol dataset containing 600 rows of data.
 
 Project File:
-`E20_Petrol_EDA.ipynb'
+`CodeAlpha_E20 Petrol EDA.ipynb'
 
  Conclusion:
 The analysis provides useful insights from the E20 Petrol dataset through exploratory analysis and visualization.
