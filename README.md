@@ -1,6 +1,4 @@
-TASK 2:
 E20 Petrol EDA
-
 Project Overview:
 This project performs Exploratory Data Analysis (EDA) on an E20 Petrol dataset.
 
